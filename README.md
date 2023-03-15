@@ -1,5 +1,5 @@
 ### Hi! 👋
-## I'm Electronic Engineer
+## I'm Electronic Engineer and Software Developer
 ### ⚡ Languages
 - Java (Spring boot)
 - Javascript
