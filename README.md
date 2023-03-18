@@ -7,7 +7,7 @@
 - C/C++
 - SQL/noSQL
 
-### 🔭 Expereinces 
+### 🔭 Experiences
 - Designing, implementing, testing, and documenting Software
 
 ### 🌱 Skills
